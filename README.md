@@ -41,8 +41,8 @@ ecommerce_api/
 
 1. Clonar el repositorio 
 ```
-git clone [https://github.com/brayan2508/e-commerce-con-python.git](https://github.com/brayan2508/e-commerce-con-python.git)
-cd ecommerce_api
+git clone https://github.com/brayan2508/e-commerce-con-python.git
+cd ecommerce-con-python
 ```
 2. Crear y activar el entorno virtual
 
